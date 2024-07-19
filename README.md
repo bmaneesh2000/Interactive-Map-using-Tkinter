@@ -1,6 +1,6 @@
+# Interactive MAP
 
-
-[![Click to watch the working video]](https://www.youtube.com/watch?v=7LBQ6mTD4Qc)
+![Click to watch the working video]](https://www.youtube.com/watch?v=7LBQ6mTD4Qc)
 
 # Screenshots
 
