@@ -1,4 +1,4 @@
-# Interactive MAP
+# Interactive MAP using tkinter
 
 #### Click below image to watch the working video
 
